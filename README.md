@@ -1,5 +1,5 @@
 # my-trello
-
+タスク管理アプリtrelloのクローンアプリ作成中
 ## Project setup
 ```
 npm install
